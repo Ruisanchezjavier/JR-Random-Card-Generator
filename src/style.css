@@ -1,1 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: green;
+}
+
+.container {
+  margin-top: 10px;
+  border-left: 0;
+  border-right: 0;
+}
